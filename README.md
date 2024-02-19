@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Pirategirl9000, I'm a self-taught programmer with experience in a variety of languages ranging from Java to Javascript. I was born in May of 2006 and am looking for a job in software programming
+- 👀 I’m interested in: Anything programming especially in line with game development
+- 🌱 I’m currently learning: HTML, CSS, and JS
+- 📫 How to reach me: BraedynFrench@gmail.com or 402-831-1893
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: 
