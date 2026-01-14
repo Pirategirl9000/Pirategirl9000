@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pirategirl9000, I'm a self-taught programmer with experience in a variety of languages ranging from Java to Javascript. I was born in May of 2006 and am looking for a job in software programming. I have experience in Data Structures, Algorithms, OOP, Backwards/Forwards Propagation of Neural Networks, SQL, Linux OS, Operating Systems, Computer Organizations/Logic, MIPS, PHP, and more
+- 👋 Hi, I’m @Pirategirl9000, I'm a self-taught programmer with experience in a variety of languages ranging from Java to Javascript. I was born in May of 2006 and am looking for a job in software programming. I have experience in Data Structures, Algorithms, OOPs, SQL, Linux OS, COBOL, and Spring Boot
 - 👀 I’m interested in: Everything Comp Sci
 - 📫 How to reach me: BraedynFrench@gmail.com, BraedynFrench1Business@gmail.com
 - 😄 Pronouns: She/Her
