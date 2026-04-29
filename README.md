@@ -1,5 +1,18 @@
-- 👋 Hi, I’m @Pirategirl9000, I'm a self-taught programmer with experience in a variety of languages ranging from Java to Javascript. I was born in May of 2006 and am looking for a job in software programming. I have experience in Data Structures, Algorithms, OOPs, SQL, Linux OS, COBOL, and Spring Boot
-- 👀 I’m interested in: Everything Comp Sci
-- 📫 How to reach me: BraedynFrench@gmail.com, BraedynFrench1Business@gmail.com
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I taught a semester course on Computer Science Principles to High School Sophmores under the supervision of a teacher. We discussed things ranging from the internet all the way to functions in Javascript
+# Who am I
+Hello I'm Violet French, I'm a mostly self-taught programmer with interests in all things computer science. My hobbies including gaming and programming.
+
+# Skills
+![HTML Badge](https://img.shields.io/badge/HTML5-green?logo=html5)
+![CSS Badge](https://img.shields.io/badge/CSS-blue?logo=css)
+![JS Badge](https://img.shields.io/badge/Javascript-orange?logo=javascript)
+![Java Badge](https://img.shields.io/badge/Java-orange)
+![Spring Boot Badge](https://img.shields.io/badge/Spring-Boot-green?logo=springboot)
+![Jakarta EE Badge](https://img.shields.io/badge/Jakarta-EE-orange)
+![Express Badge](https://img.shields.io/badge/Express-JS-orange?logo=express)
+![Node Badge](https://img.shields.io/badge/Node-JS-green?logo=Nodedotjs)
+![Jetbrains Badge](https://img.shields.io/badge/Jetbrains-blue?logo=jetbrains)
+![IntelliJ Badge](https://img.shields.io/badge/IntelliJ-orange?logo=intellijidea)
+![MySQL Badge](https://img.shields.io/badge/MySQL-darkblue?logo=mysql)
+![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-darkblue?logo=postgresql)
+
+
