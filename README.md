@@ -6,6 +6,7 @@ Hello I'm Violet French, I'm a mostly self-taught programmer with interests in a
 * TV Show - The Walking Dead
 * Video Game - Terraria
 * Subject - Programming
+* Music Genre - Punk
 
 # Skills
 ![HTML Badge](https://img.shields.io/badge/HTML5-green?logo=html5)
