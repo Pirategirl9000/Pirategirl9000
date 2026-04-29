@@ -1,5 +1,11 @@
 # Who am I
-Hello I'm Violet French, I'm a mostly self-taught programmer with interests in all things computer science. My hobbies including gaming and programming.
+Hello I'm Violet French, I'm a mostly self-taught programmer with interests in all things computer science. I'm a student at Wayne State College majoring in Computer Science and minoring in Mathematics and Computer Information Systems.
+
+# My Favorites
+* Programming Language - Java
+* TV Show - The Walking Dead
+* Video Game - Terraria
+* Subject - Programming
 
 # Skills
 ![HTML Badge](https://img.shields.io/badge/HTML5-green?logo=html5)
