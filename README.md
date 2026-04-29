@@ -20,7 +20,14 @@ Hello I'm Violet French, I'm a mostly self-taught programmer with interests in a
 ![Jetbrains Badge](https://img.shields.io/badge/Jetbrains-blue?logo=jetbrains)
 ![IntelliJ Badge](https://img.shields.io/badge/IntelliJ-orange?logo=intellijidea)
 ![MySQL Badge](https://img.shields.io/badge/MySQL-darkblue?logo=mysql)
-![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-darkblue?logo=postgresql)
+![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-darkblue?logo=postgresql)<br>
+* RESTful Services
+* Mathematics
+* RDBMS Technology
+* Object Oriented Programming
+* MVC Based Architectures
+* Client/Server Applications
+* Data Structures & Algorithms
 
 # Favorite Projects
 * [Servlet Fullstack App](https://github.com/Pirategirl9000/ServletFullStack)
